@@ -1,0 +1,34 @@
+#s4-workspace {
+  overflow-x:hidden;
+  }
+
+.ms-srch-item {
+  width:100%;
+  }
+
+.ms-srch-result {
+  margin-top:0;
+  }
+
+.ms-srch-item-deepLinks-noPreview li {
+  width:100%;
+  }
+
+#SharePointWrapper .ms-rtestate-field ol, #SharePointWrapper .ms-rtestate-field ul {
+  padding-left:30px; 
+  }
+  
+#SharePointWrapper .ms-rtestate-field strong,
+#SharePointWrapper .ms-rtestate-field b {
+  font-weight: bold; 
+  }
+
+#SharePointWrapper .ms-rtestate-field em,
+#SharePointWrapper .ms-rtestate-field i {
+  font-style: italic; 
+  }
+  
+#SharePointWrapper .ms-rtestate-field strong em{
+  font-style: italic;
+  font-weight:bold; 
+  }

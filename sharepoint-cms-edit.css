@@ -1,0 +1,21 @@
+﻿#SharePointWrapper .ms-summaryLinksToolbar a:link {
+	color: #0072c6;
+	}
+
+#SharePointWrapper .ms-summaryLinksToolbar {
+	background-color: #cccccc;
+	}
+
+#SharePointWrapper .ms-core-menu-link {
+	color: #0072c6 !important;
+	}
+
+.ms-rtestate-field {
+	border: thin black solid;
+	}
+
+#SharePointWrapper .ms-summaryLinksToolbar img {
+	margin:0;
+	vertical-align:inherit;
+	width:auto;
+	}

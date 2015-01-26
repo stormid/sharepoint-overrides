@@ -1,0 +1,25 @@
+﻿#suiteBar {
+	box-sizing: inherit;
+	}
+
+.main-nav .ms-core-listMenu-horizontalBox {
+	display: block;
+	}
+
+#SharePointWrapper .main-nav ms-navedit-editArea {
+	display: none;
+	}
+
+#suiteBar img {
+	max-width:inherit;
+	width:auto;
+	}
+
+#s4-ribbonrow img {
+	max-width:inherit;
+	width:auto;
+	}
+
+.ms-siteactions-normal li {
+	padding:0;
+	}

@@ -1,0 +1,17 @@
+{
+  "name": "storm-sharepoint-overrides",
+  "version": "1.0.0",
+  "homepage": "https://github.com/stormid/sharepoint-overrides",
+  "authors": [
+    "Storm ID <support@stormid.com>", 
+  ],
+  "description": "CSS files to make SharePoint 2013 behave",
+  "main": "_sharepoint-all-users.scss",
+  "keywords": [
+    "storm",
+    "sass",
+    "css",
+    "sharepoint"
+  ],
+  "license": "MIT"
+}
